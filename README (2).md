@@ -1,4 +1,6 @@
-# Kurs Sitesi
+# CodeHub — Kurs Sitesi
+
+🔗 **Repo:** https://github.com/kaanyaras0-afk/codehub-sitesi
 
 Yazılım kursları tanıtımı için hazırlanmış çok sayfalı bir web sitesi. HTML ve CSS kullanılarak, ekstra kütüphane veya framework olmadan geliştirilmiştir.
 
@@ -30,7 +32,8 @@ Yazılım kursları tanıtımı için hazırlanmış çok sayfalı bir web sites
 Herhangi bir kurulum gerektirmez. Projeyi bilgisayarınıza indirip `index.html` dosyasını bir tarayıcıda açmanız yeterlidir.
 
 ```bash
-kaanyaras0-afk.github.io/codehub-sitesi
+git clone https://github.com/kaanyaras0-afk/codehub-sitesi.git
+cd codehub-sitesi
 ```
 
 Ardından `index.html` dosyasını çift tıklayarak tarayıcıda açabilirsiniz.
@@ -38,7 +41,7 @@ Ardından `index.html` dosyasını çift tıklayarak tarayıcıda açabilirsiniz
 ## Klasör Yapısı
 
 ```
-proje-adi/
+codehub-sitesi/
 ├── index.html
 ├── kurslar.html
 ├── hakkımızda.html
