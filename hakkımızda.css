@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url(arkaplan2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.kutu {
+    background-color: rgba(3, 3, 3, 0.2);
+    width: 80%;
+    height: 500px;
+    border: 1px solid whitesmoke;
+    border-radius: 25px;
+   
+}
+h1{
+    color: whitesmoke;
+    padding-bottom: 0px;
+    border: 2px solid ;
+    border-radius: 25px;
+
+}
+.kutu2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.kutu {
+    max-width: 600px;
+    background-color: rgba(8, 8, 8, 0.2);
+    padding: 20px;
+    box-sizing: border-box;
+    color: whitesmoke;
+}
