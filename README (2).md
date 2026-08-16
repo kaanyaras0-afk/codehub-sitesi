@@ -30,8 +30,7 @@ Yazılım kursları tanıtımı için hazırlanmış çok sayfalı bir web sites
 Herhangi bir kurulum gerektirmez. Projeyi bilgisayarınıza indirip `index.html` dosyasını bir tarayıcıda açmanız yeterlidir.
 
 ```bash
-git clone https://github.com/kullanici-adi/proje-adi.git
-cd proje-adi
+kaanyaras0-afk.github.io/codehub-sitesi
 ```
 
 Ardından `index.html` dosyasını çift tıklayarak tarayıcıda açabilirsiniz.
