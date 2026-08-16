@@ -1,6 +1,6 @@
 # CodeHub — Kurs Sitesi
 
-🔗 **Repo:** https://github.com/kaanyaras0-afk/codehub-sitesi
+🔗 **Repo:**  https://kaanyaras0-afk.github.io/codehub-sitesi/
 
 Yazılım kursları tanıtımı için hazırlanmış çok sayfalı bir web sitesi. HTML ve CSS kullanılarak, ekstra kütüphane veya framework olmadan geliştirilmiştir.
 
