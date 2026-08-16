@@ -45,3 +45,8 @@ body{
     color: antiquewhite;
     transition: 1s;
 }
+@media (max-width: 768px) {
+    .bolum {
+        grid-template-columns: 1fr;
+    }
+}
